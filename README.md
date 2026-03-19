@@ -1,4 +1,4 @@
-# Hi, I'm Ethan 👋
+# Hi, I'm Ethan 👋 ![Status](https://img.shields.io/badge/Status-Northcoders-red?style=flat-square)
 
 I am a software developer currently focusing on **C#**. I recently started the Enterprise Engineering **Northcoders** Bootcamp, where I hope to transition from foundational concepts to building full-stack projects.
 
