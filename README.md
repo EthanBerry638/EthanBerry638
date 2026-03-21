@@ -18,4 +18,4 @@ You will notice my pinned projects are marked as **Public Archive**. These repre
 
 ---
 
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/ethan-berry-4117203b6/)
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/ethan-berry-software)
