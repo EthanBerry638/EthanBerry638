@@ -1,22 +1,20 @@
 # Hi, I'm Ethan 👋 ![Status](https://img.shields.io/badge/Status-Northcoders-red?style=flat-square)
 
-I am a software developer currently focusing on **C#**. I recently started the Enterprise Engineering **Northcoders** Bootcamp, where I hope to transition from foundational concepts to building full-stack projects.
+I am a software developer currently focusing on **C#**. I am a student at the **Northcoders** Enterprise Engineering Bootcamp, where I am transitioning from foundational concepts to building full-stack projects.
 
 ---
 
-### 🚀 Current Focus
-* **Deepening C# Knowledge:** Moving beyond console applications into more complex architecture.
-* **Problem Solving:** Interested in efficient logic and backend systems.
+## 🚀 Featured Project: Mars Rover
+**[Mars Rover](https://github.com/EthanBerry638/Mars-Rover)** A C# application that simulates navigating rovers across a Mars. The core logic is complete, allowing users to initialize a rover's position and execute movement commands via the console.
 
-### 🛠️ Tech Stack & Tools
-![Ethan's Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=EthanBerry638&layout=compact&theme=dark&hide_border=true&langs_count=5)
+---
 
-### 📁 About My Repositories
-Mars Rover - This is my most up to date project. When completed you should be able to move a Mars rover around Mars using directions inputted through the console. I am currently working on the UI layer.
+## 🛠️ Focus & Skills
+* **Backend Systems:** Deepening C# knowledge using frameworks such as **ASP.NET Core** and **EF Core**.
+* **Problem Solving:** Designing efficient logic and scalable systems.
 
-You will notice two of my pinned projects are marked as **Public Archive**. These represent key milestones in my coding journey—from my first console game projects. I keep them visible to show my growth trajectory from day one.
-
-![Ethan's GitHub Stats](https://github-readme-stats.shion.dev/api?username=EthanBerry638&show_icons=true&theme=dark&hide_border=true)
+## 📁 Evolution & Archives
+I maintain two pinned **Public Archive** projects. These represent my earliest milestones and console games, kept visible to document my growth trajectory from initial learning to my current projects.
 
 ---
 
