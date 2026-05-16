@@ -6,6 +6,7 @@ I am a software developer currently focusing on **C#**. I am a student at the **
 
 ## 🚀 Featured Projects: 
 **[Mars Rover](https://github.com/EthanBerry638/MarsRover)** A C# application that simulates navigating rovers across Mars. The core logic is complete, allowing users to initialize a rover's position and execute movement commands via the console.
+
 **[Record Shop](https://github.com/EthanBerry638/RecordShop)** A ASP.NET Core API to manage a record shops inventory. The app contains CRUD methods to get an album, get an album by id, delete an album, add an album and replace an album. 
 
 ---
