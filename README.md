@@ -9,6 +9,8 @@ I am a software developer currently focusing on **C#**. I am a student at the **
 
 **[Record Shop](https://github.com/EthanBerry638/RecordShop)** A ASP.NET Core API to manage a record shops inventory. The app contains CRUD methods to get an album, get an album by id, delete an album, add an album and replace an album. 
 
+**[Record Shop Front End](https://github.com/EthanBerry638/RecordShop-FrontEnd)** A Blazor/Razor front end for my record shop API. The app contains pages to interact with all CRUD methods on the API for the album table.
+
 ---
 
 ## 🛠️ Focus & Skills
