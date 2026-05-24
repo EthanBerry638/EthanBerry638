@@ -1,13 +1,13 @@
 # Hi, I'm Ethan 👋 ![Status](https://img.shields.io/badge/Status-Northcoders-red?style=flat-square)
 
-I am a software developer currently focusing on **C#**. I am a student at the **Northcoders** Enterprise Engineering Bootcamp, where I am transitioning from foundational concepts to building full-stack projects.
+Software developer currently focusing on **C# and the .NET ecosystem**. Advancing technical skills at **Northcoders** on their **Enterprise Engineering Bootcamp**, transitioning from foundational concepts to building full-stack projects.
 
 ---
 
 ## 🚀 Featured Projects: 
 **[Mars Rover](https://github.com/EthanBerry638/MarsRover)** A C# application that simulates navigating rovers across Mars. The core logic is complete, allowing users to initialize a rover's position and execute movement commands via the console.
 
-**[Record Shop API](https://github.com/EthanBerry638/RecordShopAPI)** A ASP.NET Core API to manage a record shops inventory. The app contains CRUD methods to get an album, get an album by id, delete an album, add an album and replace an album. 
+**[Record Shop API](https://github.com/EthanBerry638/RecordShopAPI)** An ASP.NET Core RESTful API to manage a record shop inventory. Developed via TDD, featuring global error-handling middleware, a custom logging pipeline featuring stopwatch performance-logging, active database monitoring health checks and a SQL server/SQLite database depending on environment.
 
 **[Record Shop Front End](https://github.com/EthanBerry638/RecordShop-FrontEnd)** A Blazor/Razor front end for my record shop API. The app contains pages to interact with all CRUD methods on the API for the album table.
 
