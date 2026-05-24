@@ -9,7 +9,7 @@ Software developer currently focusing on **C# and the .NET ecosystem**. Advancin
 
 **[Record Shop API](https://github.com/EthanBerry638/RecordShopAPI)** An ASP.NET Core RESTful API to manage a record shop inventory. Developed via TDD, featuring global error-handling middleware, a custom logging pipeline featuring stopwatch performance-logging, active database monitoring health checks and a SQL server/SQLite database depending on environment.
 
-**[Record Shop Front End](https://github.com/EthanBerry638/RecordShop-FrontEnd)** A Blazor/Razor front end for my record shop API. The app contains pages to interact with all CRUD methods on the API for the album table.
+**[Record Shop Front End](https://github.com/EthanBerry638/RecordShop-FrontEnd)** A responsive Blazor front end integrated with a REST API. Built using decoupled Razor components to handle asynchronous data loading, interactive validation forms for managing inventory and clean easy layout.
 
 ---
 
