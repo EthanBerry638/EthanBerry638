@@ -16,7 +16,7 @@ Software developer currently focusing on **C# and the .NET ecosystem**. Advancin
 ## 🛠️ Focus & Skills
 * **Backend Systems:** Deepening C# knowledge using frameworks such as **ASP.NET Core** and **EF Core**.
 * **Problem Solving:** Designing efficient logic and scalable systems.
-* * **Front-End Development:** Building clean UI's with responsive features
+* ***Front-End Development*** Building clean UI's with responsive features
 
 ---
 
