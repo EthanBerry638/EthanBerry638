@@ -6,10 +6,12 @@ Software developer currently focusing on **C# and the .NET ecosystem**. Advancin
 
 ## 🚀 Featured Projects: 
 
-Active: 
+### Active: 
+
 **[Battleships (WIP)](https://github.com/EthanBerry638/Battleships)** A C# implementation of the classic strategy game, featuring a decoupled architecture for game engine logic. Developed using a Test-Driven Development approach to ensure robust handling of board operations, ship placement, and coordinate parsing.
 
-Archived:
+### Archived:
+
 **[Mars Rover](https://github.com/EthanBerry638/MarsRover)** A C# application that simulates navigating rovers across Mars. The core logic is complete, allowing users to initialize a rover's position and execute movement commands via the console.
 
 **[Record Shop API](https://github.com/EthanBerry638/RecordShopAPI)** An ASP.NET Core RESTful API to manage a record shop inventory. Developed via TDD, featuring global error-handling middleware, a custom logging pipeline featuring stopwatch performance-logging, active database monitoring health checks and a SQL server/SQLite database depending on environment.
