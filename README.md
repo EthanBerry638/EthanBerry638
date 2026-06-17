@@ -11,10 +11,12 @@ Software developer currently focusing on **C# and the .NET ecosystem**. Advancin
 
 **[Record Shop Front End](https://github.com/EthanBerry638/RecordShop-FrontEnd)** A responsive Blazor front end integrated with a REST API. Built using decoupled Razor components to handle asynchronous data loading, interactive validation forms for managing inventory and clean easy layout.
 
+**[Battleships (WIP)](https://github.com/EthanBerry638/Battleships)** A C# implementation of the classic strategy game, featuring a decoupled architecture for game engine logic. Developed using a Test-Driven Development approach to ensure robust handling of board operations, ship placement, and coordinate parsing.
+
 ---
 
 ## 🛠️ Focus & Skills
-* **Backend Systems:** Deepening C# knowledge using frameworks such as **ASP.NET Core** and **EF Core**.
+* **Backend Systems:** Deepening C# knowledge using frameworks such as **ASP.NET Core** and **EF Core**
 * **Problem Solving:** Designing efficient logic and scalable systems.
 * ***Front-End Development*** Building clean UI's with responsive features
 
