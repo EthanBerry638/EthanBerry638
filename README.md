@@ -17,6 +17,7 @@ Software developer focused on **C# and the .NET ecosystem.** Graduate of the **N
 **[Record Shop Front End](https://github.com/EthanBerry638/RecordShop-FrontEnd)** A responsive Blazor front end integrated with a REST API. Built using decoupled Razor components to handle asynchronous data loading, interactive validation forms for managing inventory and clean easy layout.
 
 **[Mars Rover](https://github.com/EthanBerry638/MarsRover)** A C# application that simulates navigating rovers across Mars. The core logic is complete, allowing users to initialize a rover's position and execute movement commands via the console.
+
 ---
 
 ## 🛠️ Focus & Skills
