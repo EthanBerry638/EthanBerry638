@@ -1,6 +1,6 @@
 # Hi, I'm Ethan 👋 ![Status](https://img.shields.io/badge/Status-Northcoders%20Graduate-red?style=flat-square)
 
-Software developer focused on **C# and the .NET ecosystem.** Graduate of the Northcoders Enterprise Engineering Bootcamp, where I developed a strong foundation in full-stack engineering, test-driven development, and scalable architecture.
+Software developer focused on **C# and the .NET ecosystem.** Graduate of the **Northcoders Enterprise Engineering Bootcamp**, where I developed a strong foundation in full-stack engineering, test-driven development, and scalable architecture.
 
 ---
 
@@ -12,17 +12,16 @@ Software developer focused on **C# and the .NET ecosystem.** Graduate of the Nor
 
 ### Archived:
 
-**[Mars Rover](https://github.com/EthanBerry638/MarsRover)** A C# application that simulates navigating rovers across Mars. The core logic is complete, allowing users to initialize a rover's position and execute movement commands via the console.
-
 **[Record Shop API](https://github.com/EthanBerry638/RecordShopAPI)** An ASP.NET Core RESTful API to manage a record shop inventory. Developed via TDD, featuring global error-handling middleware, a custom logging pipeline featuring stopwatch performance-logging, active database monitoring health checks and a SQL server/SQLite database depending on environment.
 
 **[Record Shop Front End](https://github.com/EthanBerry638/RecordShop-FrontEnd)** A responsive Blazor front end integrated with a REST API. Built using decoupled Razor components to handle asynchronous data loading, interactive validation forms for managing inventory and clean easy layout.
 
+**[Mars Rover](https://github.com/EthanBerry638/MarsRover)** A C# application that simulates navigating rovers across Mars. The core logic is complete, allowing users to initialize a rover's position and execute movement commands via the console.
 ---
 
 ## 🛠️ Focus & Skills
 * **Backend Systems:** Deepening C# knowledge using frameworks such as **ASP.NET Core** and **EF Core**
-* **Problem Solving:** Designing efficient logic and scalable systems.
+* **Problem Solving:** Designing efficient logic and scalable systems
 * ***Front-End Development*** Building clean UI's with responsive features
 
 ---
