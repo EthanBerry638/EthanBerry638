@@ -1,6 +1,6 @@
 # Hi, I'm Ethan 👋 ![Status](https://img.shields.io/badge/Status-Northcoders%20Graduate-red?style=flat-square)
 
-Software developer currently focusing on **C# and the .NET ecosystem**. Advancing technical skills at **Northcoders** on their **Enterprise Engineering Bootcamp**, transitioning from foundational concepts to building full-stack projects.
+Software developer focused on **C# and the .NET ecosystem.** Graduate of the Northcoders Enterprise Engineering Bootcamp, where I developed a strong foundation in full-stack engineering, test-driven development, and scalable architecture.
 
 ---
 
