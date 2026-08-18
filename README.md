@@ -1,6 +1,6 @@
-# Hi, I'm Ethan 👋 ![Status](https://img.shields.io/badge/Status-Northcoders%20Graduate-red?style=flat-square)
+# Hi, I'm Ethan 👋 
 
-Software developer focused on **C# and the .NET ecosystem.** Graduate of the **Northcoders Enterprise Engineering Bootcamp**, where I developed a strong foundation in full-stack engineering, test-driven development, and scalable architecture.
+Software developer with a background in **C# and the .NET ecosystem.** Graduate of the **Northcoders Enterprise Engineering Bootcamp**, where I developed a strong foundation in full-stack engineering, test-driven development, and scalable architecture.
 
 ---
 
@@ -8,7 +8,7 @@ Software developer focused on **C# and the .NET ecosystem.** Graduate of the **N
 
 ### Active: 
 
-**[Battleships (WIP)](https://github.com/EthanBerry638/Battleships)** A C# implementation of the classic strategy game, featuring a decoupled architecture for game engine logic. Developed using a Test-Driven Development approach to ensure robust handling of board operations, ship placement, and coordinate parsing.
+**[Battleships (WIP)](https://github.com/EthanBerry638/Battleships)** A full-stack C#/React implementation of the classic strategy game. The backend is complete, with development now focused on building and integrating the React front end.
 
 ### Archived:
 
@@ -17,13 +17,6 @@ Software developer focused on **C# and the .NET ecosystem.** Graduate of the **N
 **[Record Shop Front End](https://github.com/EthanBerry638/RecordShop-FrontEnd)** A responsive Blazor front end integrated with a REST API. Built using decoupled Razor components to handle asynchronous data loading, interactive validation forms for managing inventory and clean easy layout.
 
 **[Mars Rover](https://github.com/EthanBerry638/MarsRover)** A C# application that simulates navigating rovers across Mars. The core logic is complete, allowing users to initialize a rover's position and execute movement commands via the console.
-
----
-
-## 🛠️ Focus & Skills
-* **Backend Systems:** Deepening C# knowledge using frameworks such as **ASP.NET Core** and **EF Core**
-* **Problem Solving:** Designing efficient logic and scalable systems
-* ***Front-End Development*** Building clean UI's with responsive features
 
 ---
 
