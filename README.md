@@ -1,6 +1,6 @@
 # Hi, I'm Ethan 👋 
 
-Software developer with a background in **C# and the .NET ecosystem.** Graduate of the **Northcoders Enterprise Engineering Bootcamp**, where I developed a strong foundation in full-stack engineering, test-driven development, and scalable architecture.
+Trainee Software Developer working on **IBM i**. Before this, I built a foundation in **C# and the .NET ecosystem** through the **Northcoders Enterprise Engineering Bootcamp**, focusing on full-stack engineering, test-driven development and scalable architecture.
 
 ---
 
