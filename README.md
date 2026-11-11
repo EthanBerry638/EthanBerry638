@@ -5,8 +5,8 @@ Trainee Software Developer working on **IBM i**. Before this, I built a foundati
 ---
 
 ## 🔭 Currently
-- Working in IBM i development, from modern free-format RPGLE to legacy RPG codebases
-- Learning Go
+- Working in IBM i development, from modern free-format RPGLE to legacy RPG codebases.
+- Learning Go in my spare time.
 
 ## 🚀 Featured Projects: 
 
